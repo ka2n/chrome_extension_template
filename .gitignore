@@ -1,0 +1,10 @@
+dist/
+.swp
+.bak
+Gemfile.lock
+
+## Mac
+.DS_Store
+.Trashes
+.com.apple.timemachine.supported
+.fseventsd
