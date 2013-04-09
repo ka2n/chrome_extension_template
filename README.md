@@ -1,5 +1,9 @@
 # Extension template for Google Chrome
 
+0. Remove git files
+    
+    rm .git
+
 1. Install libraries using [Bundler](http://gembundler.com/)
 
     bundle install
