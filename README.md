@@ -1,11 +1,9 @@
 # Extension template for Google Chrome
 
-0. Remove git files
+0. Remove git(of this repository) files
 
     rm -rf .git
-
-0.1 Initialize git
-
+    
     git init
 
 1. Install libraries using [Bundler](http://gembundler.com/)
